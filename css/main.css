@@ -45,8 +45,11 @@ ul.posts li {
  text-align: center;
 }
 
+h2.IronText{
+ text-align: center;
+}
 p.hero{
- margin: 100px 100px 100px 100px;
+ padding: 100px 100px 100px 100px;
 }
 
 
