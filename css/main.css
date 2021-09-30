@@ -40,11 +40,11 @@ ul.posts li {
  list-style: none;
 }
 
-.about #blurb {
+.hero #blurb {
  margin: 800px, 50px, 100px, 50px
 }
 
-h1.about{
+h1.hero{
  color: #fbca03;
  text-align: center;
 }
