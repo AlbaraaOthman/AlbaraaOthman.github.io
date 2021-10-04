@@ -39,16 +39,6 @@ ul.posts {
 ul.posts li {
  list-style: none;
 }
-.IronText{
- color: #fbca03;
- text-align: center;
-}
-h2.IronText{
- text-align: center;
-}
-p.hero{
- padding: 100px 100px 100px 100px;
-}
 #IronImage{ {
  float: right;
  margin: 10px;
