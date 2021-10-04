@@ -48,16 +48,14 @@ ul.posts li {
 h2.IronText{
  text-align: center;
 }
+
 p.hero{
  padding: 100px 100px 100px 100px;
 }
 
 #IronImage{ {
  float: right;
- display: block;  
- margin-left: auto;  
- margin-right: auto;  
- padding: 5px;
+ margin: 10px;
 }
  
 
