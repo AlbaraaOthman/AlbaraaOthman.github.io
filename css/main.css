@@ -53,10 +53,11 @@ p.hero{
 }
 
 #IronImage{ {
-display: block;  
-margin-left: auto;  
-margin-right: auto;  
-padding: 5px;
+ float: right;
+ display: block;  
+ margin-left: auto;  
+ margin-right: auto;  
+ padding: 5px;
 }
  
 
