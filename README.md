@@ -1,8 +1,8 @@
 # albaraaothman.github.io
-#Repositries
+# Repositries
 For this project i have only my main repositry albaraaothman.github.io, within it i have a couple of **directories**
 
-#Directories
+# Directories
 I have the following directories:
 * Habout
 * _layouts
