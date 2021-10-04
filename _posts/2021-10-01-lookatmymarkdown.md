@@ -31,3 +31,5 @@ There has been 13 Doctors, i will list them now because why not:
 * Matt Smith
 * Peter Capaldi
 * Jodie Whittaker
+
+Look at this image, ![Its meant to be a bananna](../../images/banana.jpg) i like it.
