@@ -25,7 +25,7 @@ There has been 13 Doctors, i will list them now because why not:
 * Colin Baker
 * Sylvester McCoy
 * Paul McGann
-      * John Hurt
+   * John Hurt
 * Christopher Eccleston
 * David Tennant
 * Matt Smith
