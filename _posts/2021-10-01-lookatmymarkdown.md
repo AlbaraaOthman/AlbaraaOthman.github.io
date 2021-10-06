@@ -36,6 +36,6 @@ Look at this image, ![Its meant to be a banana](../images/banana.jpg) i like it.
 
 >This is a blockquote
 >>With Second Level BlockQuotes
->>Pretty Fancy
+>> Pretty Fancy
 >>>And A Third Level??!
->>>Cool.
+>>> Cool.
