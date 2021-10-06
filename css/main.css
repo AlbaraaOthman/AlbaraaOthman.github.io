@@ -49,12 +49,10 @@ h2.IronText{
 p.hero{
  padding: 100px 100px 100px 100px;
 }
-#IronImage{ {
+#IronImage{
 display: block;  
 margin-left: auto;  
-margin-right: auto;  
-border: 8px ridge blue;  
-padding: 5px;
+margin-right: auto;
 }
 
  
